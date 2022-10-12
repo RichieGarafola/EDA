@@ -10,6 +10,8 @@ In this platform I will display the power of Python using the streamlit library 
 I will build a KPI that performs complete customized data analysis based on the data provided by the user.
  
 ---
+Deployed Streamlit App: https://richiegarafola-eda.streamlitapp.com/
+---
 
 **Tech Used:** Streamlit for the open-source app framework, Pandas for reading in the csv file, pandas_profiling / streamlit_pandas_profiling for the Exploratory Data Analysis.
 
