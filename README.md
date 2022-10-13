@@ -6,7 +6,7 @@
 
 
 Exploratory Data Analysis refers to the critical process of performing initial investigations on data to discover patterns, spot anomalies, test hypothesis and to check assumptions with the help of summary statistics and graphical representations. In this platform I will display the power of Python using the streamlit library to build an EDA tool.
-I will build a KPI that performs complete customized data analysis based on the data provided by the user.
+I have built a KPI that performs complete customized data analysis based on the data provided by the user.
 
 Upload your file in csv format and perform Exploratory Data Analysis with this tool!
  
